@@ -14,3 +14,5 @@ abss = abs(num1)
 poww = pow(num1,num2)
 
 print("addition = ", add)
+print("subtruction = ", sub)
+
