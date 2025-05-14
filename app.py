@@ -13,10 +13,4 @@ mod = num1 % num2
 abss = abs(num1)
 poww = pow(num1,num2)
 
-print("addition = ", add)
-print("subtruction = ", sub)
-print("multiplication = ", mult)
-print("division = ", div)
-print(f"mod od {num1} and {num2} = ", mod)
-print(f"absolute of {num1} and {num2} = ", abss)
-print(f"{num1} power of {num2} = ", poww)
+
