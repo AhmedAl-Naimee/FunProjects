@@ -1,10 +1,11 @@
 
-
-usernum = int(input())
-
-
+print("enter your number or end with '0'")
 while True:
-    print (usernum)
+    usernum = int(input())
+    if usernum != 0:  
+        print(usernum)
 
-else
-    break
+    else:
+        break
+
+print("over and out")
